@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "9. What can I do? Can Ebola be prevented?", 
+        "slug": "9-can-it-be-prevented", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "365cd0a462de44acbe893cce530ff6a8"
+    }, 
+    "model": "GitCategoryModel"
+}
