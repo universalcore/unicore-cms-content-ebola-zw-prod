@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "a. When should someone seek medical care?", 
+        "language": "eng_UK", 
+        "title": "a. When should someone seek medical care?", 
+        "primary_category": "49244f9738ad486484e17742600a714f", 
+        "created_at": "2014-09-12T17:41:20+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-09-15T12:38:36.324330+00:00", 
+        "linked_pages": [], 
+        "slug": "a-when-should-someone-seek-medical-care", 
+        "content": "If a person has been in an area or country that has the Ebola virus disease or\nin contact with a person known or suspected to have Ebola and they begin to\nhave symptoms, they should seek medical care immediately. Any cases of persons\nwho are suspected to have the disease should be reported to the nearest health\ncenter without delay. Prompt medical care is essential to improving the rate\nof survival from the disease.\n\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "3e184a0dcdc240538effedfea0b0a2fb"
+    }, 
+    "model": "GitPageModel"
+}
