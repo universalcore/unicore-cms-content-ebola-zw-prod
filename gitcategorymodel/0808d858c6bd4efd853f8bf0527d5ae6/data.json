@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "4. Who is most at risk of catching Ebola?", 
+        "slug": "4-who-most-risk", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "0808d858c6bd4efd853f8bf0527d5ae6"
+    }, 
+    "model": "GitCategoryModel"
+}
