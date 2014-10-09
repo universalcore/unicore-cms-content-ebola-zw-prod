@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "1. What is Ebola virus disease?", 
+        "slug": "1-what-ebola-virus-disease", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "4231c92d254e4f76b4dcfac35a508507"
+    }, 
+    "model": "GitCategoryModel"
+}
