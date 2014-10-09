@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "8. Is there a vaccine for Ebola?", 
+        "slug": "8-there-vaccine-Ebola", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "397ee0bb8db745a08ffbf83750f064c9"
+    }, 
+    "model": "GitCategoryModel"
+}
