@@ -1,19 +1,20 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "a. Signs and symptoms of Ebola", 
+        "description": "5. Signs and symptoms of Ebola", 
         "language": "eng_UK", 
-        "title": "a. Signs and symptoms of Ebola", 
-        "primary_category": "f28e263cd985441cae5e4041d946f4ac", 
+        "title": "5. Signs and symptoms of Ebola", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
         "created_at": "2014-09-02T15:41:53+00:00", 
         "featured_in_category": false, 
-        "modified_at": "2014-09-15T12:36:05.657753+00:00", 
+        "modified_at": "2014-10-14T15:22:09.070482+00:00", 
         "linked_pages": [], 
-        "slug": "a-signs-and-symptoms-of-ebola", 
-        "content": "Sudden onset of fever, intense weakness, muscle pain, headache and sore throat\nare typical signs and symptoms. This is followed by vomiting, diarrhoea, rash,\nimpaired kidney and liver function, and in some cases, both internal and\nexternal bleeding.\n\n_Ebola virus disease infections can only be confirmed through laboratory\ntesting._\n\n\n\n", 
+        "slug": "signs-and-symptoms-of-ebola", 
+        "content": "Sudden onset of fever, intense weakness, muscle pain, headache and sore throat\r\nare typical signs and symptoms. This is followed by vomiting, diarrhoea, rash,\r\nimpaired kidney and liver function, and in some cases, both internal and\r\nexternal bleeding. _Ebola virus disease infections can only be confirmed\r\nthrough laboratory testing._\r\n\r\n", 
         "source": null, 
         "featured": false, 
         "published": true, 
+        "position": 2, 
         "id": "b4c3d7b0c07c4f62abe502b7164d221f"
     }, 
     "model": "GitPageModel"
