@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": " 10. What about health workers? How should they protect themselves while caring for patients? ", 
+        "language": "eng_UK", 
+        "title": "10. What about health workers? How should they protect themselves while caring for patients? ", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+        "created_at": "2014-10-14T15:52:59.126528+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-14T15:52:59.126704+00:00", 
+        "linked_pages": [], 
+        "slug": "what-about-health-workers-how-should-they-protect-themselves-while-caring-patients", 
+        "content": "Health workers treating patients with suspected or confirmed cases of Ebola are at higher risk of infection than other groups. Before or during an outbreak, health workers are properly oriented on the standard precaution measures or procedures on important actions to reduce or stop the spread of the virus and protect themselves and others in the health-care setting. These procedures known as the \u201cstandard and other additional precautions\u201d.", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "a9d6ce8705204bcdbc00968e6b281a40"
+    }, 
+    "model": "GitPageModel"
+}
