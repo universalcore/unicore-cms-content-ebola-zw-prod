@@ -1,19 +1,20 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "a. Who is most at risk", 
+        "description": "4. Who is most at risk", 
         "language": "eng_UK", 
-        "title": "a. Who is most at risk", 
-        "primary_category": "0808d858c6bd4efd853f8bf0527d5ae6", 
+        "title": "4. Who is most at risk", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
         "created_at": "2014-09-02T15:43:37+00:00", 
         "featured_in_category": false, 
-        "modified_at": "2014-09-15T12:31:24.459684+00:00", 
+        "modified_at": "2014-10-14T15:21:24.428266+00:00", 
         "linked_pages": [], 
-        "slug": "a-who-is-most-at-risk", 
-        "content": "Everyone is at risk and must therefore take measures to prevent themselves\nfrom catching the disease. However, during an outbreak, those at higher risk\nof infection are: health workers and family members or others in close contact\nwith infected people.\n\n_Exposure to the virus can be controlled through the use of protective\nmeasures in clinics and hospitals, at community gatherings, or at home._\n\n", 
+        "slug": "who-is-most-at-risk", 
+        "content": "Everyone is at risk and must therefore take measures to prevent themselves\r\nfrom catching the disease. However, during an outbreak, those at higher risk\r\nof infection are: health workers and family members or others in close contact\r\nwith infected people. _Exposure to the virus can be controlled through the use\r\nof protective measures in clinics and hospitals, at community gatherings, or\r\nat home._\r\n\r\n", 
         "source": null, 
         "featured": false, 
         "published": true, 
+        "position": 2, 
         "id": "4df582cf971744e2b90ea13b2078ad66"
     }, 
     "model": "GitPageModel"
