@@ -1,19 +1,20 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "a. Is there a vaccine?", 
+        "description": "8. Is there a vaccine for Ebola?", 
         "language": "eng_UK", 
-        "title": "a. Is there a vaccine?", 
-        "primary_category": "397ee0bb8db745a08ffbf83750f064c9", 
+        "title": "8. Is there a vaccine for Ebola?", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
         "created_at": "2014-09-12T18:00:46+00:00", 
         "featured_in_category": false, 
-        "modified_at": "2014-09-15T12:43:59.391012+00:00", 
+        "modified_at": "2014-10-14T15:24:18.355781+00:00", 
         "linked_pages": [], 
-        "slug": "a-is-there-a-vaccine", 
-        "content": "Currently, there is no licensed medicine or vaccine for Ebola virus disease,\nbut several products are under development.\n\n", 
+        "slug": "is-there-a-vaccine-for-ebola", 
+        "content": "Currently, there is no licensed medicine or vaccine for Ebola virus disease,\r\nbut several products are under development.\r\n\r\n", 
         "source": null, 
         "featured": false, 
         "published": true, 
+        "position": 2, 
         "id": "fef8e3b897d44b4a9216704787c2a900"
     }, 
     "model": "GitPageModel"
