@@ -1,19 +1,20 @@
 {
     "fields": {
         "subtitle": "", 
-        "description": "a. Health workers are at higher risk", 
+        "description": "10. What about health workers? How should they protect themselves while caring for patients?", 
         "language": "eng_UK", 
-        "title": "a. Health workers are at higher risk", 
-        "primary_category": "cb759cbd9e20490ca5bf67c5de1fcde9", 
+        "title": "10. What about health workers? How should they protect themselves while caring for patients?", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
         "created_at": "2014-09-12T18:04:02+00:00", 
         "featured_in_category": false, 
-        "modified_at": "2014-09-15T13:15:09.581510+00:00", 
+        "modified_at": "2014-10-14T15:26:21.770444+00:00", 
         "linked_pages": [], 
-        "slug": "a-health-workers-are-at-higher-risk", 
-        "content": "Health workers treating patients with suspected or confirmed cases of Ebola\nare at higher risk of infection than other groups. Before or during an\noutbreak, health workers are properly oriented on the standard precaution\nmeasures or procedures on important actions to reduce or stop the spread of\nthe virus and protect themselves and others in the health-care setting. These\nprocedures known as the \"standard and other additional precautions\".\n\n", 
+        "slug": "what-about-health-workers-how-should-they-protect-themselves-while-caring-for-patients", 
+        "content": "Health workers treating patients with suspected or confirmed cases of Ebola\r\nare at higher risk of infection than other groups. Before or during an\r\noutbreak, health workers are properly oriented on the standard precaution\r\nmeasures or procedures on important actions to reduce or stop the spread of\r\nthe virus and protect themselves and others in the health-care setting. These\r\nprocedures known as the \"standard and other additional precautions\".\r\n\r\n", 
         "source": null, 
         "featured": false, 
         "published": true, 
+        "position": 2, 
         "id": "27fe3d61face49ffb8522a7338d2789d"
     }, 
     "model": "GitPageModel"
