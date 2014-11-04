@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "d6f3162719ed455d81ee94af4e1aa506", 
+  "language": "eng_UK", 
+  "title": "2. How do people become infected with the virus?", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "2-how-do-people-become-infected-virus", 
+  "source": null, 
+  "position": 1, 
+  "featured_in_navbar": false, 
+  "id": "d6f3162719ed455d81ee94af4e1aa506"
+}
