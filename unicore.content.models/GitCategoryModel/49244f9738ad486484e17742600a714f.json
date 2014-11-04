@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "49244f9738ad486484e17742600a714f", 
+  "language": "eng_UK", 
+  "title": "6. When should someone seek medical care?", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "6-when-should-someone-seek-medical-care", 
+  "source": null, 
+  "position": 5, 
+  "featured_in_navbar": false, 
+  "id": "49244f9738ad486484e17742600a714f"
+}
