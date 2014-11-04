@@ -1,0 +1,18 @@
+{
+  "subtitle": "", 
+  "uuid": "365cd0a462de44acbe893cce530ff6a8", 
+  "language": "eng_UK", 
+  "title": "9. What can I do? Can Ebola be prevented?", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "9-can-it-be-prevented", 
+  "source": null, 
+  "position": 8, 
+  "featured_in_navbar": false, 
+  "id": "365cd0a462de44acbe893cce530ff6a8"
+}
