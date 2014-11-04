@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "Is it safe to travel during an outbreak?", 
+  "language": "eng_UK", 
+  "title": "Is it safe to travel during an outbreak?", 
+  "primary_category": "4cb760b6cc8c4c01a06457077ce69c9b", 
+  "created_at": "2014-09-12T18:19:11+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-09-15T13:18:00.048827+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "3f5e308f858b412690e1c9195df84338", 
+  "content": "While travelers should always be vigilant with regard to their health and\nthose around them, the risk of infection for travelers is very low since\nperson-to-person transmission results from direct contact with the body\nfluids. As with any illness or disease, it is always possible that a person\nwho has been exposed to Ebola virus may choose to travel. If the individual\nhas not developed symptoms, they cannot transmit Ebola virus to those around\nthem.\n\nIt is however recommended that people minimize non-essential travel to places\nthat have Ebola. If you have recently been to a place or country that has\nconfirmed Ebola cases you should be aware of the symptoms of infection and\nseek medical attention at the first sign of illness.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "is-it-safe-to-travel-during-an-outbreak", 
+  "uuid": "3f5e308f858b412690e1c9195df84338"
+}
