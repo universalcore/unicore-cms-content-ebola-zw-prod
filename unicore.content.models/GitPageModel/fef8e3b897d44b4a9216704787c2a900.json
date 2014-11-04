@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "a. Is there a vaccine?", 
+  "language": "eng_UK", 
+  "title": "a. Is there a vaccine?", 
+  "primary_category": "397ee0bb8db745a08ffbf83750f064c9", 
+  "created_at": "2014-09-12T18:00:46+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-09-15T12:43:59.391012+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "fef8e3b897d44b4a9216704787c2a900", 
+  "content": "Currently, there is no licensed medicine or vaccine for Ebola virus disease,\nbut several products are under development.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "a-is-there-a-vaccine", 
+  "uuid": "fef8e3b897d44b4a9216704787c2a900"
+}
