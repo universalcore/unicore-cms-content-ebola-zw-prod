@@ -4,14 +4,14 @@
   "language": "eng_UK", 
   "title": "9b. Ways to prevent infection and transmission", 
   "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
-  "created_at": "2014-10-14T16:00:24.220399+00:00", 
+  "created_at": "2014-10-14T16:00:24+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-10-14T16:00:24.220754+00:00", 
+  "modified_at": "2014-11-05T06:35:43.315070+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,6 +20,7 @@
   "source": null, 
   "featured": false, 
   "published": true, 
+  "position": 9, 
   "slug": "9b-ways-prevent-infection-and-transmission", 
   "uuid": "5006db6c3dc640c3b4703e871ea07723"
 }
