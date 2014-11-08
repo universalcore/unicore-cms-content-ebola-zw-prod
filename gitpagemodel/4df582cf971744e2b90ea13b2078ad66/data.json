@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "4. Who is most at risk", 
+        "language": "eng_UK", 
+        "title": "4. Who is most at risk", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+        "created_at": "2014-09-02T15:43:37+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-14T16:08:16.672690+00:00", 
+        "linked_pages": [], 
+        "slug": "who-is-most-at-risk", 
+        "content": "Everyone is at risk and must therefore take measures to prevent themselves\r\nfrom catching the disease. However, during an outbreak, those at higher risk\r\nof infection are: health workers and family members or others in close contact\r\nwith infected people. _Exposure to the virus can be controlled through the use\r\nof protective measures in clinics and hospitals, at community gatherings, or\r\nat home._\r\n\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 3, 
+        "id": "4df582cf971744e2b90ea13b2078ad66"
+    }, 
+    "model": "GitPageModel"
+}

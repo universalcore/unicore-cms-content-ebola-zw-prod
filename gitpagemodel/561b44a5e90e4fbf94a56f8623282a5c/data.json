@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "1. What is Ebola virus disease?", 
+        "language": "eng_UK", 
+        "title": "1. What is Ebola virus disease?", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+        "created_at": "2014-09-02T15:49:37+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-14T16:08:16.635194+00:00", 
+        "linked_pages": [], 
+        "slug": "what-is-ebola-virus-disease", 
+        "content": "Ebola virus disease is a severe, often fatal illness that has broken out in\r\nWest Africa and the Democratic Republic of Congo. The illness affects humans\r\nand nonhuman primates (monkeys, gorillas, and chimpanzees). The illness can\r\nspread to other countries if they do not take precautions to prevent it.\r\nZambia has currently put up several measures to prevent the illness from\r\ncoming into the country. These measures require your cooperation.\r\n\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 0, 
+        "id": "561b44a5e90e4fbf94a56f8623282a5c"
+    }, 
+    "model": "GitPageModel"
+}

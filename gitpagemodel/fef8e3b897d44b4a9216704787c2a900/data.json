@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "8. Is there a vaccine for Ebola?", 
+        "language": "eng_UK", 
+        "title": "8. Is there a vaccine for Ebola?", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+        "created_at": "2014-09-12T18:00:46+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-14T16:08:16.730553+00:00", 
+        "linked_pages": [], 
+        "slug": "is-there-a-vaccine-for-ebola", 
+        "content": "Currently, there is no licensed medicine or vaccine for Ebola virus disease,\r\nbut several products are under development.\r\n\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 7, 
+        "id": "fef8e3b897d44b4a9216704787c2a900"
+    }, 
+    "model": "GitPageModel"
+}

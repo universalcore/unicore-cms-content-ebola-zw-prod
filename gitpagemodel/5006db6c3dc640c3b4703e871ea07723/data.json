@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "9b. Ways to prevent infection and transmission", 
+        "language": "eng_UK", 
+        "title": "9b. Ways to prevent infection and transmission", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+        "created_at": "2014-10-14T16:00:24+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-14T16:08:16.752533+00:00", 
+        "linked_pages": [], 
+        "slug": "9b-ways-prevent-infection-and-transmission", 
+        "content": "- Understand the nature of the disease, how it is transmitted, and how to prevent it from spreading further.\r\n- Listen to and follow directives issued by the Ministry of Health.\r\n- If you suspect someone close to you or in your community of having Ebola virus disease, encourage and support them in seeking appropriate medical treatment in a health-care facility.\r\n- Wash your hands with water and soap after visiting hospitals or caring for any other patient.\r\n- Develop the habit of washing your hands with clean water and soap regularly, especially before eating or touching food.\r\n- Avoid touching your mouth with dirty hands.\r\n- Additionally, individuals should reduce contact with high-risk infected animals (i.e. fruit bats, monkeys or apes) in the affected rainforest areas.", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 9, 
+        "id": "5006db6c3dc640c3b4703e871ea07723"
+    }, 
+    "model": "GitPageModel"
+}
