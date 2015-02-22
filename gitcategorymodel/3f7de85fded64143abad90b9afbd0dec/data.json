@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Ebola FAQ", 
+        "slug": "ebola-faq", 
+        "source": null, 
+        "position": 0, 
+        "featured_in_navbar": false, 
+        "id": "3f7de85fded64143abad90b9afbd0dec"
+    }, 
+    "model": "GitCategoryModel"
+}

@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "10. What about health workers? How should they protect themselves while caring for patients?", 
+  "language": "eng_GB", 
+  "title": "10. What about health workers? How should they protect themselves while caring for patients?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-09-12T18:04:02+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-03T12:07:35.855755+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "27fe3d61face49ffb8522a7338d2789d", 
+  "content": "Health workers treating patients with suspected or confirmed cases of Ebola\nare at higher risk of infection than other groups. Before or during an\noutbreak, health workers are properly oriented on the standard precaution\nmeasures or procedures on important actions to reduce or stop the spread of\nthe virus and protect themselves and others in the health-care setting. These\nprocedures known as the \"standard and other additional precautions\".\n\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 12, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "what-about-health-workers-how-should-they-protect-themselves-while-caring-for-patients", 
+  "uuid": "27fe3d61face49ffb8522a7338d2789d"
+}

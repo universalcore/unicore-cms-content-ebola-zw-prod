@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "3. Can Ebola be transmitted through sex?", 
+  "language": "eng_GB", 
+  "title": "3. Can Ebola be transmitted through sex?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-09-15T12:27:13+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-12-03T12:07:33.092408+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "0f63eab17721469ca635e634598968bf", 
+  "content": "Only if you have sex without a condom with a person who is infected with Ebola\nor who has recently been infected and now has been cured of Ebola. Always use\na condom when having sex with a person whose health history you do not know..\n\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 4, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "can-ebola-be-transmitted-through-sex", 
+  "uuid": "0f63eab17721469ca635e634598968bf"
+}

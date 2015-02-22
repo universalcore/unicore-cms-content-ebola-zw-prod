@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "7. What is the treatment?", 
+        "language": "eng_UK", 
+        "title": "7. What is the treatment?", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+        "created_at": "2014-09-12T17:43:01+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-14T16:08:16.718679+00:00", 
+        "linked_pages": [], 
+        "slug": "what-is-the-treatment", 
+        "content": "Severely ill patients require intensive supportive care. They are frequently\r\ndehydrated and need intravenous fluids or oral rehydration solutions. There is\r\ncurrently no specific treatment to cure the disease. With appropriate medical\r\ncare in a health facility, patients can recover.\r\n\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 6, 
+        "id": "5b17328c134f41739a924483a9c22616"
+    }, 
+    "model": "GitPageModel"
+}
