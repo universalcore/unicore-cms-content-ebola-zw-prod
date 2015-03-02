@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "10. How does WHO protect health during outbreaks?", 
+  "language": "eng_GB", 
+  "title": "10. How does WHO protect health during outbreaks?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-10-14T16:00:24+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-02-27T13:54:34.338785+00:00", 
+  "_version": {
+    "package_version": "0.2.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "5006db6c3dc640c3b4703e871ea07723", 
+  "content": "WHO provides technical advice to countries and communities to prepare for and respond to Ebola outbreaks.\r\n\r\nWHO actions include:\r\n\r\n- disease surveillance and information-sharing across regions to watch for outbreaks;\r\n\r\n- technical assistance to investigate and contain health threats when they occur \u2013 such as on-site help to identify sick people and track disease patterns;\r\n\r\n- advice on prevention and treatment options;\r\n\r\n- deployments of experts and the distribution of health supplies (such as personal protection gear for health workers) when they are requested by the country;\r\n\r\n- communications to raise awareness of the nature of the disease and protective health measures to control transmission of the virus;\r\n\r\n- activation of regional and global networks of experts to provide assistance, if requested, and mitigate potential international health effects and disruptions of travel and trade.\r\n\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": true, 
+  "position": 11, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "9b-ways-prevent-infection-and-transmission", 
+  "uuid": "5006db6c3dc640c3b4703e871ea07723"
+}

@@ -1,0 +1,21 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "2. How do people become infected with the virus?", 
+        "language": "eng_UK", 
+        "title": "2. How do people become infected with the virus?", 
+        "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+        "created_at": "2014-09-12T14:10:54+00:00", 
+        "featured_in_category": true, 
+        "modified_at": "2014-10-14T16:08:16.648938+00:00", 
+        "linked_pages": [], 
+        "slug": "how-do-people-become-infected-with-the-virus", 
+        "content": "In countries where there is an outbreak, the majority of cases in humans have\r\noccurred as a result of human-to-human transmission. Infection occurs from\r\ndirect contact of body fluids (blood, mucus, stool, urine, saliva, sweat,\r\nsemen) of a person who is infected. Infection can also occur if broken skin of\r\na healthy person come into contact with environments that have become\r\ncontaminated with an Ebola patient's infectious fluids such as soiled\r\nclothing, bed linen, or used needles.\r\n\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "position": 1, 
+        "id": "c5a9acca2eaa4154be4c1f0fd0a82b21"
+    }, 
+    "model": "GitPageModel"
+}
