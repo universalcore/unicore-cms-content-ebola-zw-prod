@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "eng_GB", 
+  "title": "What can I do? Can Cholera be prevented?", 
+  "primary_category": "3987ba333add406a9ec88c394a248961", 
+  "created_at": "2015-11-26T11:55:28.112790+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-11-26T11:55:28.112790+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " Avoid food and water that could be contaminated with cholera\r\n - Only drink water that has been made safe by boiling or treated with WaterGuard chlorine tablets.\r\n\r\n - Wash your hands with soap and running water after going to the toilet, cleaning a child\u2019s bottom and before preparing food, eating or feeding a child.\r\n\r\n - Wash, cook and cover your food and eat it hot.\r\n - Raw or leftover cooked food can be dangerous. \r\n - Raw food should be washed in safe water or cooked. \r\n - Cooked food should be eaten as soon as possible while still hot. \r\n - Left overs should be covered and thoroughly reheated before eating. \r\n\r\n - Food, utensils and preparation surfaces should be kept clean and away from animals. Food should be stored in covered containers. \r\n\r\n - Always use latrines and keep them clean. All faeces, including those of babies and young children, should be disposed of cleanly and safely. \r\n\r\nDeaths & Funerals\r\n\r\n - Contact the local authorities immediately when someone dies of cholera - do not touch or wash the corpse.\r\n - If in contact with the corps or its excretions, clean your hands thoroughly with water and soap. \r\n - At funeral ceremonies make sure handwashing facilities are available with water and soap and only safe food and water is consumed.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-can-i-do-can-cholera-be-prevented", 
+  "uuid": "96a7cd1922304b23b86074068738a7b1"
+}
