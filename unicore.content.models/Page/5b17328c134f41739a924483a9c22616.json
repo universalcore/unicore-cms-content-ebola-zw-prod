@@ -6,15 +6,17 @@
   "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
   "created_at": "2014-09-12T17:43:01+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2014-09-12T17:43:01+00:00", 
+  "modified_at": "2015-12-10T16:52:36.259177+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "fef8e3b897d44b4a9216704787c2a900"
+  ], 
   "id": null, 
   "content": "Currently, there is no licensed medicine or vaccine for Ebola virus disease, but several products are under development.\r\n\r\nWays to prevent infection and transmission :\r\n\r\nWhile initial cases of Ebola virus disease are contracted by handling infected animals or carcasses, secondary cases occur by direct contact with the bodily fluids of an ill person, either through unsafe case management or unsafe burial practices. During this outbreak, most of the disease has spread through human-to-human transmission. Several steps can be taken to help in preventing infection and limiting or stopping transmission.\r\n\r\nUnderstand the nature of the disease, how it is transmitted, and how to prevent it from spreading further. (For additional information, please see the previous questions about Ebola virus disease in this FAQ.)\r\n\r\nListen to and follow directives issued by your country\u2019s respective Ministry of Health. If you suspect someone close to you or in your community of having Ebola virus disease, encourage and support them in seeking appropriate medical treatment in a health-care facility.\r\n\r\nIf you choose to care for an ill person in your home, notify public health officials of your intentions so they can train you and provide appropriate gloves and personal protective equipment (PPE) (gloves, impermeable gown, boots/closed shoes with overshoes, mask and eye protection for splashes), as well as instructions as a reminder on how to properly care for the patient, protect yourself and your family, and properly dispose of the PPE after use. N.B. WHO does not recommend home care and strongly advises individuals and their family members to seek professional care in a treatment centre.\r\n\r\nWhen visiting patients in the hospital or caring for someone at home, hand washing with soap and water is recommended after touching a patient, being in contact with their bodily fluids, or touching his/her surroundings. People who have died from Ebola should only be handled using appropriate protective equipment and should be buried immediately by public health professionals who are trained in safe burial procedures.\r\n\r\nAdditionally, individuals should reduce contact with high-risk infected animals (i.e. fruit bats, monkeys or apes) in the affected rainforest areas. If you suspect an animal is infected, do not handle it. Animal products (blood and meat) should be thoroughly cooked before eating.\r\n\r\nNext article:", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "6ec618b6149f40f08ad4d03edddf94ec", 
   "published": null, 
-  "position": 6, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "what-can-I-do-can-it-be-prevented-is-there-a-vaccine", 
   "uuid": "5b17328c134f41739a924483a9c22616"
