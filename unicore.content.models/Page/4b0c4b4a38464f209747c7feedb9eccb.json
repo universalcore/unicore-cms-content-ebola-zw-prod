@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "During an outbreak, WHO reviews the public health situation regularly", 
+  "language": "eng_GB", 
+  "title": "Is it safe to travel during an outbreak? What is   WHO\u2019s travel advice?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-09-12T18:14:44+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-09-12T18:14:44+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "During an outbreak, WHO reviews the public health situation regularly and recommends any travel or trade restrictions, if necessary, and may inform national authorities to implement it. WHO is currently reviewing its recommendations for travel and expects to issue advice in the coming days.\r\n\r\nWhile travellers should always be vigilant with regard to their health and those around them, the risk of infection for travellers is very low since person-to-person transmission results from direct contact with the body fluids or secretions of an infected patient.\r\n\r\n**Is it safe to travel with persons who have Ebola?**\r\n\r\nAs with any illness or disease, it is always possible that a person who has been exposed to Ebola virus may choose to travel. If the individual has not developed symptoms (see FAQ #4), they cannot transmit EVD to those around them. If the individual does have symptoms, they should seek immediate medical attention at the first sign they are feeling unwell. This may require either notifying the flight crew or ship crew or, upon arrival at a destination, seeking immediate medical attention. Travellers who show initial symptoms of EVD should be isolated to prevent further transmission. Although the risk to fellow travellers in such a situation is very low, contact tracing is recommended under these circumstances.\r\n\r\n**Is it safe to travel to West Africa on business or to visit family and friends?**\r\n\r\nThe risk of a tourist or businessman/woman becoming infected with Ebola virus during a visit to the affected areas and developing disease after returning is extremely low, even if the visit included travel to the local areas from which primary cases have been reported. Transmission requires direct contact with blood, secretions, organs or other body fluids of infected living or dead persons or animal, all of which are unlikely exposures for the average traveller. In any event, tourists are advised to avoid all such contacts.\r\n\r\nIf you are visiting family or friends in the affected areas, the risk is similarly low, unless you have direct physical contact with a person who is ill or who has died. If this is the case, it is important to notify public health authorities and engage in contact tracing. Contact tracing is used to confirm you have not been exposed to EVD and to prevent further spread of the disease through monitoring.\r\n\r\n\r\n**WHO\u2019s general travel advice**\r\n\r\n - Travelers should avoid all contact with infected patients.\r\n - Health workers traveling to affected areas should strictly follow WHO-recommended infection control guidance.\r\n - Anyone who has stayed in areas where cases were recently reported should be aware of the symptoms of infection and seek medical attention at the first sign of illness.\r\n\r\nClinicians caring for travelers returning from affected areas with compatible symptoms are advised to consider the possibility of Ebola virus disease.\r\n\r\nFor additional travel advice, please read the Travel and transport risk assessment: Recommendations for public health authorities and transport sector at [http://who.int][1]\r\n\r\nNext article:\r\n\r\n\r\n  [1]: http://who.int/ith/updates/20140421/en/", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 11, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-about-rumours-that-some-foods-can-prevent-or-treat-the-infection", 
+  "uuid": "4b0c4b4a38464f209747c7feedb9eccb"
+}
