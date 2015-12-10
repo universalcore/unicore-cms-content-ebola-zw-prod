@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Find out typical symptoms of Ebola infection", 
+  "language": "eng_GB", 
+  "title": "What are typical signs and symptoms of infection?", 
+  "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
+  "created_at": "2014-09-02T15:43:37+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2014-09-02T15:43:37+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Sudden onset of fever, intense weakness, muscle pain, headache and sore throat are typical signs and symptoms. This is followed by vomiting, diarrhoea, rash, impaired kidney and liver function, and in some cases, both internal and external bleeding.\r\n\r\nLaboratory findings include low white blood cell and platelet counts, and elevated liver enzymes.\r\n\r\nThe incubation period, or the time interval from infection to onset of symptoms, is from 2 to 21 days. The patients become contagious once they begin to show symptoms. They are not contagious during the incubation period.\r\n\r\nEbola virus disease infections can only be confirmed through laboratory testing.\r\n\r\nNext article:\r\n", 
+  "source": null, 
+  "featured": true, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 3, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "what-are-typical-signs-and-symptoms-of-infection", 
+  "uuid": "4df582cf971744e2b90ea13b2078ad66"
+}
