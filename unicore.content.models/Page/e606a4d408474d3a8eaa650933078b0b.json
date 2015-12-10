@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Find out how Cholera is Transmitted", 
+  "language": "eng_GB", 
+  "title": "How is Cholera Transmitted?", 
+  "primary_category": "3987ba333add406a9ec88c394a248961", 
+  "created_at": "2015-11-26T11:47:45.190694+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-11-26T11:47:45.190694+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - Cholera is caused by ingesting water and food contaminated with faeces containing cholera germs\r\n - Cholera germs can transmitted on unwashed hands, in untreated water and raw and left over foods, and by flies.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "how-cholera-transmitted", 
+  "uuid": "e606a4d408474d3a8eaa650933078b0b"
+}
